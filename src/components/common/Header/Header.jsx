@@ -71,7 +71,7 @@ const Header = ({ loadProfileData, profile, match }) => {
 							Видео
 						</a>
 						<a href="/map" className="header__link">
-							Карта
+							Виртуальная Прогулка
 						</a>
 						<a href="/contact" className="header__link">
 							Контакты
